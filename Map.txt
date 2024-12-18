@@ -1,0 +1,24 @@
++-----------------------------------------------------+
+| +-----------------+            +-----------------+  |
+| |  House Tyrell   |            | House Baratheon |  |
+| |                 |     A      |                 |  |
+| +-----------------+            +-----------------+  |
+|                                                     |
+|          B             Hole             C           |
+| +-----------------+            +-----------------+  |
+| | House Lannister |            |Manipulative Room|  |
+| |                 |      D     |                 |  |
+| +-----------------+            +-----------------+  |
++-----------------------------------------------------+
+                 +------------------+
+                 | House of Undying |
+                 |                  |
+                 +------------------+
+
+A: Corridor A
+B: Corridor B
+C: Corridor C
+D: Corridor D
+
+NOTE: You can't move to House of Undying without collecting 
+all 4 keys.

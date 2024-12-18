@@ -1,0 +1,25 @@
+Hello, the Hero.
+Welcome to Dracarys Game.
+In this game, your mission is saving dragons 
+from House of Undying.
+Daenerys Targaryen, Mother of Dragons, has lost 
+her 3 dragons. Magician from House of Undying escaped them.
+You are in dungeon and to open the gate of House of Undying,
+first you need to fight with characters in each 4 room. 
+Rooms are: House Lannister, House Baratheon, House Tyrell and
+Manipulative Room. 
+In each 4 room there are 3 possible characters.
+You will fight with one of them who is randomly chosen.
+When you defeat that one, you will earn key of that room. 
+When you collect 4 keys, you can get into House of Undying.
+And you have to fight with Magician Pyat Pree there.
+If you can beat him, you will save dragons.
+
+To move between rooms, use move<direction> command.
+To see the dungeon, type map command. 
+To know commands, type help command.
+
+Now, if you are ready, you will start the game in hole of dungeon.
+GOOD LUCK, HERO!
+
+

@@ -1,0 +1,17 @@
+In-Game Commands:
+move <direction>: This command moves the player to a neighboring room if the direction is valid.
+look: Displays the current room description, items, and characters.
+inventory: Shows a list of items in the player's inventory.
+pickup <item>: Adds an item to the player's inventory if it's present in the room.
+attack: Attacks a creature if one is present in the room.
+
+Menu Commands:
+list: Lists saved games.
+save <filepath>: Saves the game state to a file.
+load <filepath>: Loads the game state from a file.
+exit: Exits the game.
+
+Additional Commands:
+help: Displays a help message explaining the commands.
+use <item>: Uses an item in the players inventory, sets it to current item.
+map: Displays a map of the dungeon.
