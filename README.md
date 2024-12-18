@@ -14,3 +14,5 @@ Without collecting all 4 keys, player can not move to House of Undying.
 And if player successfully collects all keys and also beat the magician Pyat Pre, 
 the dragons are automatically saved. A message from Daenerys to player is printed on the screen, player is thanked and gets awarded by Mother Of Dragons.
 And at the end, a dragon shape made of ASCII is printed on the screen for a good visual look. 
+
+Note: You need to create a directory named as saves for load/list/save game functions.
